@@ -21,7 +21,7 @@
 			
 			<li>&lt</li>
 			<li>G</li>
-			<li>E</li>
+			<li>E  </li>
 			<li>E</li>
 			<li>K</li>
 			<li>&nbsp</li>
